@@ -1,0 +1,84 @@
+*{
+    margin: 0px;
+    font-family: 'Inter', sans-serif;
+}
+
+header{
+    margin-top: 30px;
+    margin-left: 185px;
+}
+
+section img{
+    width: 500px;
+    
+    text-align: center;
+}
+
+#title{
+    font-size: 30px;
+    margin-left: 70px;
+    margin-top: 10px;
+    color: #17abcc;
+    text-align: center;
+}
+ section{
+     display: grid;
+     grid-auto-flow: column;
+     margin-left: 0px;
+     text-align: center;
+    }
+
+
+
+ section p {
+     font-size: 30px;
+     margin-left: 70px;
+     color: #003D4A;
+     font-weight: bold;
+ }
+
+ .icons{
+     width: 40px;
+     padding: 0px;
+    margin-bottom: 215px;
+    padding: 20px;
+
+    }
+
+ #bandit{
+    width: 400px;
+    margin-top: 100px;
+    padding: 0px;
+ }
+
+ #divcard{
+    display: grid;
+    grid-auto-flow: column;
+ }
+
+ button{
+     border-radius: 15px;
+     width: 190px;
+     height: 50px;
+     background-color: #0a2b38;
+     color: #f8f8f8;
+     font-size: 20px;
+     font-weight: bolder;
+     border: none;
+     margin-left: 50px;
+     margin-top: 40px;
+ }
+
+ button:hover{
+     cursor: pointer;
+     color: #71c9ed;
+     background-color: #003D4A;
+ }
+
+ .icons{
+    cursor: pointer;
+ }
+
+ #bandit:hover{
+    cursor: pointer;
+ }
